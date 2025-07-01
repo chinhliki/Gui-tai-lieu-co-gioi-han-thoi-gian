@@ -35,10 +35,9 @@
 ## 🏗️ CẤU TRÚC HỆ THỐNG
 
 <p align="center">
-  <img src="images/SystemArchitecture.png" alt="System Architecture" width="800"/>
+  <img src="Sơ đồ trình tự.jpg" alt="System Architecture" width="800"/>
 </p>
 
-*Lưu ý: Hình ảnh này chỉ mang tính chất minh họa. Bạn có thể thay thế bằng sơ đồ kiến trúc thực tế của ứng dụng gửi file nếu có.*
 
 ---
 
