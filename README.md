@@ -1,5 +1,3 @@
-# Gui-tai-lieu-co-gioi-han-thoi-gian
-Gửi tài liệu có giới hạn thời gian
 <h1 align="center">ỨNG DỤNG GỬI FILE AN TOÀN VÀ GIỚI HẠN THỜI GIAN</h1>
 
 <div align="center">
