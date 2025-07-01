@@ -3,13 +3,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
+  <img src="images/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
   <img src="images/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
-  <img src="https://github.com/chinhliki/Gui-tai-lieu-co-gioi-han-thoi-gian/blob/main/logoDaiNam.png" alt="DaiNam University Logo" width="200"/>
 </p>
+
+[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
 [![Fit DNU](https://img.shields.io/badge/Fit%20DNU-green?style=for-the-badge)](https://fitdnu.net/)
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-red?style=for-the-badge)](https://dainam.edu.vn)
-[![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+
 </div>
 
 <h2 align="center">Hệ thống gửi file an toàn với thời gian giới hạn</h2>
@@ -144,8 +145,6 @@ python nguoi_nhan.py
 2.  **Thời gian hiệu lực file:** File có hiệu lực trong 24 giờ (`timedelta(hours=24)`) kể từ thời điểm tạo. Bạn có thể thay đổi giá trị này trong cả `nguoi_gui.py` và `nguoi_nhan.py`.
 3.  **Xác thực Google Drive API:** Lần đầu tiên bạn chạy ứng dụng ở chế độ Internet, một cửa sổ trình duyệt sẽ mở ra yêu cầu bạn đăng nhập tài khoản Google và cấp quyền truy cập Google Drive.
 4.  **Ký tự đặc biệt trong tên file:** Tên file gốc sẽ được giữ lại khi gửi qua Google Drive, nhưng cần đảm bảo không có ký tự lạ có thể gây lỗi.
-
------
 
 ## 🤝 Đóng góp
 
