@@ -1,8 +1,5 @@
 # Gui-tai-lieu-co-gioi-han-thoi-gian
 Gửi tài liệu có giới hạn thời gian
-Bạn muốn phần README này ở dạng code để có thể copy trực tiếp lên GitHub phải không? Dưới đây là phiên bản Markdown của README mà bạn có thể dán vào file `README.md` trên GitHub của mình:
-
-```markdown
 <h1 align="center">ỨNG DỤNG GỬI FILE AN TOÀN VÀ GIỚI HẠN THỜI GIAN</h1>
 
 <div align="center">
