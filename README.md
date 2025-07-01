@@ -150,16 +150,12 @@ python nguoi_nhan.py
 
 ## 🤝 Đóng góp
 
-Dự án được phát triển bởi 4 thành viên:
+Dự án được phát triển bởi 3 thành viên:
 
 | Họ và Tên         | Vai trò                                                                                                     |
 |-------------------|-------------------------------------------------------------------------------------------------------------|
-| Nguyễn Nam Hưng   | Phát triển toàn bộ mã nguồn, thiết kế kiến trúc hệ thống, kiểm thử, triển khai dự án và thực hiện video giới thiệu. |
-| Hoàng Mạnh Linh   | Biên soạn tài liệu, Poster, Powerpoint, thuyết trình, đề xuất cải tiến, và hỗ trợ bài tập lớn.             |
-| Đào Đức Mạnh      | Thiết kế slide PowerPoint, hỗ trợ bài tập lớn.                                                            |
-| Cao Văn Huy       | Hỗ trợ bài tập lớn                                                                                         |
+| Hà Tuấn Điệp      | Phát triển mã nguồn, thiết kế kiến trúc hệ thống.                                                           |
+| Đinh Ngọc Chính   | Biên soạn tài liệu, Poster, Powerpoint, thuyết trình, đề xuất cải tiến, và hỗ trợ bài tập lớn.              |
+| Trần Quang Lâm    | Hỗ trợ bài tập lớn, kiểm thử, triển khai dự án và thực hiện                                                 |
 
-© 2025 NHÓM 1, CNTT16-03, TRƯỜNG ĐẠI HỌC ĐẠI NAM
-
-```
-```
+© 2025 NHÓM 12, CNTT17-11, TRƯỜNG ĐẠI HỌC ĐẠI NAM
